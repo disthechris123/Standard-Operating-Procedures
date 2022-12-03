@@ -14,4 +14,4 @@
 [Using Bot-Setup](./11%20-%20Using%20Bot-Setup.md)
 [Posting as OM](./12%20-%20Posting%20as%20OM.md)
 
-## [Main Index](../Index)
+## [Main Index](../Index.md)

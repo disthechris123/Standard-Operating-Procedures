@@ -6,4 +6,4 @@
 [Mod Timezones](./03%20-%20Mod%20Timezones.md)
 [Mod Channel Roadmap](./04%20-%20Mod%20Channel%20Roadmap.md)
 
-# [Main Index](../Index.md)
+## [Main Index](../Index.md)
