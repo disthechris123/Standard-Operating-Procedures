@@ -39,4 +39,4 @@
   - SP1 Full post
 - 18 JAN, Put up SP2 Thread for Predictions and Theories
     - This is a NON-Cosmere work and therefore NO Cosmere spoilers should be in this thread
-    - No spoilers from the preview chapter to SP2
+    - No spoilers from the preview chapters of SP2
