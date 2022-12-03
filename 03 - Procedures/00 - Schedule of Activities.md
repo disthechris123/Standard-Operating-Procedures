@@ -28,9 +28,9 @@
 - 8 JAN, Book Club, Prologue through Book 1 Chapter 5 A Conspiracy Unmasked
 - 14 JAN, Book Club, Book 1 Chapter 6 through Book 1 Chapter 12 Flight to the Ford
 - 15 JAN, Book Club, Book 1 Chapter 6 through Book 1 Chapter 12 Flight to the Ford
-- 21 JAN, Book Club, Book 2 chapter 1 Many Meetings through Book 2 Chapter 4 A Journey in the Dark
+- 21 JAN, Book Club, Book 2 Chapter 1 Many Meetings through Book 2 Chapter 4 A Journey in the Dark
 - 21 JAN, Movie Night, TBD
-- 22 JAN, Book Club, Book 2 chapter 1 Many Meetings through Book 2 Chapter 4 A Journey in the Dark
+- 22 JAN, Book Club, Book 2 Chapter 1 Many Meetings through Book 2 Chapter 4 A Journey in the Dark
 - 28 JAN, Book club, Book 2 Chapter 5 The Bridge of Khazad-dûm through Book 2 Chapter 10 The Breaking of the Fellowship
 - 29 JAN, Book 2 Chapter 5 The Bridge of Khazad-dûm through Book 2 Chapter 10 The Breaking of the Fellowship
 
