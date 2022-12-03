@@ -7,11 +7,11 @@
 - 4 DEC, Book Club, Part 4 AGoT
 - 4 DEC, Book Club, Full Soul Music
 - 10 DEC, Book Club, Part 5 AGoT
-- 10 DEC, Book Club, Halfway Hogfather 
+- 10 DEC, Book Club, Halfway Hogfather
 - 10 DEC, Movie Night, Hogfather Part 1
 - 10 DEC, Book Club Special, The Lost Metal + Cosmere FULL
 - 11 DEC, Book Club, Part 5 AGoT
-- 11 DEC, Book Club, Halfway Hogfather 
+- 11 DEC, Book Club, Halfway Hogfather
 - 17 DEC, Book Club, Part 6 AGoT
 - 17 DEC, Book Club, Full Hogfather
 - 17 DEC, Movie Night, Hogfather Part 2
@@ -42,3 +42,5 @@
 - 18 JAN, Put up SP2 Thread for Predictions and Theories
   - This is a NON-Cosmere work and therefore NO Cosmere spoilers should be in this thread
   - No spoilers from the preview chapters of SP2
+
+[Procedures Index](./Procedures%20Index.md)
