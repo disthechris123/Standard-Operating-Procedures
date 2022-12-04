@@ -4,7 +4,7 @@ This is the repository for the Science Fiction Fantasy Alliance (SFFA) Standard 
 
 ## Usage
 
-The SOPs are written in Markdown format with YAML front matter meta data. These documents may be viewed and edited through GitHub's web interface, or by cloning the repository and editing the files locally through several supported Markdown editors.
+The SOPs are written in Markdown format with YAML front matter metadata. These documents may be viewed and edited through GitHub's web interface, or by cloning the repository and editing the files locally through several supported Markdown editors.
     - [vscode](https://code.visualstudio.com/)
     - [Obsidian](https://obsidian.md/)
 
