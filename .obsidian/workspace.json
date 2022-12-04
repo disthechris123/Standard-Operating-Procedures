@@ -33,8 +33,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/01 - Rules & Policies/Rules Index.md",
-                "mode": "source",
+                "file": "wiki/Index.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/01 - Rules & Policies/Rules Index.md",
+                "file": "wiki/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/01 - Rules & Policies/Rules Index.md",
+                "file": "wiki/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/01 - Rules & Policies/Rules Index.md"
+                "file": "wiki/Index.md"
               }
             }
           }
@@ -159,11 +159,15 @@
   },
   "active": "c8be4d99d1a996ca",
   "lastOpenFiles": [
+    "wiki/03 - Procedures/Procedures Index.md",
+    "wiki/Index.md",
+    "wiki/02 - References/References Index.md",
     "wiki/01 - Rules & Policies/01 - Mod Rules.md",
-    "wiki/01 - Rules & Policies/08 - Warning System.md",
+    "wiki/01 - Rules & Policies/05 - SFW Policy.md",
     "wiki/01 - Rules & Policies/03 - Basic Server Rules.md",
     "wiki/01 - Rules & Policies/02 - Mod Responsibilities.md",
-    "wiki/01 - Rules & Policies/01-1 Mod Decision Hierarchy.md",
-    "Untitled.md"
+    "wiki/01 - Rules & Policies/Rules Index.md",
+    "wiki/01 - Rules & Policies/08 - Warning System.md",
+    "wiki/01 - Rules & Policies/01-1 Mod Decision Hierarchy.md"
   ]
 }
