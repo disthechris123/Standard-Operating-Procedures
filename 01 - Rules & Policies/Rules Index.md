@@ -1,3 +1,9 @@
+---
+title: Rules & Policies
+layout: default
+nav_order: 1
+has_children: true
+---
 # Rules Index
 
 [Mod Rules](./01%20-%20Mod%20Rules.md)
@@ -9,5 +15,3 @@
 [Serious Topics Policy](./06%20-%20Serious%20Topics%20Policy.md)
 [Politics Policy](./07%20-%20Politics%20Policy.md)
 [Warning System](./08%20-%20Warning%20System.md)
-
-# [Main Index](../Index.md)

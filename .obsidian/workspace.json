@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d1487f69966b72a5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "945333ae9e76e684",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/01 - Rules & Policies/01 - Mod Rules.md",
+                "file": "01 - Rules & Policies/01 - Mod Rules.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "c8be4d99d1a996ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/Index.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/Index.md",
+                "file": "01 - Rules & Policies/01 - Mod Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/Index.md",
+                "file": "01 - Rules & Policies/01 - Mod Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/Index.md"
+                "file": "01 - Rules & Policies/01 - Mod Rules.md"
               }
             }
           }
@@ -157,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c8be4d99d1a996ca",
+  "active": "945333ae9e76e684",
   "lastOpenFiles": [
+    "01 - Rules & Policies/Rules Index.md",
+    "01 - Rules & Policies/01 - Mod Rules.md",
+    "01 - Rules & Policies/07 - Politics Policy.md",
+    "01 - Rules & Policies/08 - Warning System.md",
+    "README.md",
+    "Index.md",
+    "02 - References/01 - Account Logins.md",
     "wiki/03 - Procedures/Procedures Index.md",
     "wiki/Index.md",
-    "wiki/02 - References/References Index.md",
-    "wiki/01 - Rules & Policies/01 - Mod Rules.md",
-    "wiki/01 - Rules & Policies/05 - SFW Policy.md",
-    "wiki/01 - Rules & Policies/03 - Basic Server Rules.md",
-    "wiki/01 - Rules & Policies/02 - Mod Responsibilities.md",
-    "wiki/01 - Rules & Policies/Rules Index.md",
-    "wiki/01 - Rules & Policies/08 - Warning System.md",
-    "wiki/01 - Rules & Policies/01-1 Mod Decision Hierarchy.md"
+    "wiki/02 - References/References Index.md"
   ]
 }

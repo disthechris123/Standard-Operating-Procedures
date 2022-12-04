@@ -1,3 +1,10 @@
+---
+title: Mod Rules
+layout: default
+parent: Rules & Policies
+nav_order: 1
+---
+
 # Mod Rules
 
 1. Mods should follow all server rules in every channel and be an example to members.

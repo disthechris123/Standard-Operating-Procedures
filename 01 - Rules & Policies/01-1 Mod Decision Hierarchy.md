@@ -1,3 +1,10 @@
+---
+title: Mod Decision Hierarchy
+layout: default
+parent: Rules & Policies
+nav_order: 1
+---
+
 # Mod Decision Hierarchy
 
 1. Minor decisions, such as pinning a post, updating channel information for a channel that mod controls or giving a verbal reminder for basic things like channel topic or spoiler policy are done on the spot and do not need to be mentioned or discussed beforehand.
